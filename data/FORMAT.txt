@@ -1,0 +1,4 @@
+crs-num
+crs-name	crs-id tea-num stu-num
+[tea-name tea-id]
+[stu-name stu-id]
